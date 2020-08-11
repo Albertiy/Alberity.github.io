@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Tech &amp;&amp; Life</title>
   
-  <subtitle>Albertiy的小站</subtitle>
+  <subtitle>Albertiy知识博客</subtitle>
   <link href="https://albertiy.github.io/atom.xml" rel="self"/>
   
   <link href="https://albertiy.github.io/"/>
-  <updated>2020-08-09T19:38:20.621Z</updated>
+  <updated>2020-08-11T02:16:48.513Z</updated>
   <id>https://albertiy.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>My First Hexo Post</title>
-    <link href="https://albertiy.github.io/2020/08/09/My-First-Hexo-Post/"/>
-    <id>https://albertiy.github.io/2020/08/09/My-First-Hexo-Post/</id>
+    <link href="https://albertiy.github.io/posts/2020-08-09-My-First-Hexo-Post/"/>
+    <id>https://albertiy.github.io/posts/2020-08-09-My-First-Hexo-Post/</id>
     <published>2020-08-09T15:10:45.000Z</published>
-    <updated>2020-08-09T19:38:20.621Z</updated>
+    <updated>2020-08-11T02:16:48.513Z</updated>
     
     
     
@@ -31,10 +31,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://albertiy.github.io/2020/08/09/hello-world/"/>
-    <id>https://albertiy.github.io/2020/08/09/hello-world/</id>
+    <link href="https://albertiy.github.io/posts/2020-08-09-hello-world/"/>
+    <id>https://albertiy.github.io/posts/2020-08-09-hello-world/</id>
     <published>2020-08-09T15:03:56.215Z</published>
-    <updated>2020-08-09T15:03:56.216Z</updated>
+    <updated>2020-08-11T02:48:23.544Z</updated>
     
     
       
@@ -49,10 +49,10 @@
   
   <entry>
     <title>使用 Markdown</title>
-    <link href="https://albertiy.github.io/2017/11/30/2017-11-30-Demo2/"/>
-    <id>https://albertiy.github.io/2017/11/30/2017-11-30-Demo2/</id>
+    <link href="https://albertiy.github.io/posts/2017-11-30-2017-11-30-Demo2/"/>
+    <id>https://albertiy.github.io/posts/2017-11-30-2017-11-30-Demo2/</id>
     <published>2017-11-30T06:57:00.000Z</published>
-    <updated>2020-08-09T19:38:01.479Z</updated>
+    <updated>2020-08-11T02:48:41.270Z</updated>
     
     
       
@@ -71,10 +71,10 @@
   
   <entry>
     <title>不错的一天</title>
-    <link href="https://albertiy.github.io/2017/11/30/2017-11-30-Demo/"/>
-    <id>https://albertiy.github.io/2017/11/30/2017-11-30-Demo/</id>
+    <link href="https://albertiy.github.io/posts/2017-11-30-2017-11-30-Demo/"/>
+    <id>https://albertiy.github.io/posts/2017-11-30-2017-11-30-Demo/</id>
     <published>2017-11-30T06:49:00.000Z</published>
-    <updated>2020-08-09T19:16:34.156Z</updated>
+    <updated>2020-08-11T02:59:37.050Z</updated>
     
     
       
